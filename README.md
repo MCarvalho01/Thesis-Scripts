@@ -17,7 +17,7 @@ extract_documents.py
 This script extracts the documents directly form the URLs available in the csv 
 
 ext_unstructured.py
-This script esxtracts the text of the documents.
+This script extracts the text of the documents.
 
 analyze_contracts.py
 This script does the analysis of the extracted text to find the gas Index reference
