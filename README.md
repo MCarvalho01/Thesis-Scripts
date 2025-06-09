@@ -22,5 +22,11 @@ This script extracts the text of the documents.
 analyze_contracts.py
 This script does the analysis of the extracted text to find the gas Index reference
 
+gas_tender_processor
+This script standerdizes the raw data and cleans any wrong inputted values from the Excel. Also does a proposal comparison analysis and calculates key metrics.
+
+data_transform.py
+This script processes and analyzes the tenders data, standardizes the data and calculates the margins for the different specifications of the companies. Is the script that uses the AI model for the gas calculations.
+
 gas_price_calculator.py
 This script creates the AI Assitant that will calculate the gas price using the calculaltion training provided in the prompt
