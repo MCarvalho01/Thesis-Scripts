@@ -13,7 +13,7 @@ This script extracts the documents from the Vortal platform URLs available in th
 anoGov_extract.py
 This script extracts the documents from the AnoGov platform URLs available in the csv 
 
-extract_documents.py
+contract_down.py
 This script extracts the documents directly form the URLs available in the csv 
 
 ext_unstructured.py
