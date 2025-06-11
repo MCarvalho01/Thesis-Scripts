@@ -31,5 +31,5 @@ This script processes and analyzes the tenders data, standardizes the data and c
 gas_price_calculator.py
 This script creates the AI Assitant that will calculate the gas price using the calculaltion training provided in the prompt.
 
-main.py
+cloud_function.py
 Script for the Google Cloud Function that does the data transformation for the contests submitted via Form.
